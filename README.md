@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To implement  T flipflop using verilog and validating their functionality using their functional tables
+To implement  T flipflop using verilog and validating their functionality using their functional tables.
 
 **SOFTWARE REQUIRED:**
 
